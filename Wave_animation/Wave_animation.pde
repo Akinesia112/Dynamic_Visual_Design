@@ -1,10 +1,3 @@
-/**
- * Additive Wave
- * by Daniel Shiffman. 
- * 
- * Create a more complex wave by adding two waves together. 
- */
- 
 int xspacing = 25;   // How far apart should each horizontal location be spaced
 int w;              // Width of entire wave
 int maxwaves = 12;   // total # of waves to add together
