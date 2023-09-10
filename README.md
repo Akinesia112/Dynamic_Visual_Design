@@ -26,7 +26,7 @@ https://github.com/Akinesia112/Dynamic_Visual_Design/assets/97179312/25cc3886-0a
 
 ## ▌ Dancing_Light_3D_2025
 
-* Dancing_Light_3D_2025
+* "Dancing Light 2025" represents the yearning and joyous inspiration for the year 2025, expressed through dancing light and expanding halos of light.
 
 https://github.com/Akinesia112/Dynamic_Visual_Design/assets/97179312/bfedb5c8-148a-446b-bf8d-529247a46b04
 
