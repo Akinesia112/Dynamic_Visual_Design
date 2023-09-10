@@ -24,5 +24,9 @@ https://github.com/Akinesia112/Dynamic_Visual_Design/assets/97179312/3d31cfa9-9b
 
 https://github.com/Akinesia112/Dynamic_Visual_Design/assets/97179312/25cc3886-0a47-4110-9dcc-2d747229859c
 
-This collection represents the intersection of art and technology, where the digital realm meets human creativity. Each piece is a testament to the endless possibilities of dynamic visual design. Join us on this journey, where art comes alive in the realms of 3D diffusion noise, particle dynamics, wave animation, and flow fields.
+## ▌ Dancing_Light_3D_2025
+
+https://github.com/Akinesia112/Dynamic_Visual_Design/assets/97179312/bfedb5c8-148a-446b-bf8d-529247a46b04
+
+This collection represents the intersection of art and technology, where the digital realm meets human creativity. Each piece is a testament to the endless possibilities of dynamic visual design. Join us on this journey, where art comes alive in the realms of 3D diffusion noise, particle dynamics, wave animation, flow fields, and dancing light in 2025.
 
